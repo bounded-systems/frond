@@ -3,6 +3,10 @@
     "type": "name",
     "value": "Frond"
   },
+  "tagline": {
+    "type": "tagline",
+    "value": "This project demonstrates a simple round-trip validation for JavaScript and TypeScript files using Deno and the SWC l…"
+  },
   "description": {
     "type": "meta",
     "value": "This project demonstrates a simple round-trip validation for JavaScript and TypeScript files using Deno and the SWC library."
